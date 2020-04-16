@@ -2,4 +2,4 @@
 
 Check xref:cuba-react-core:index.adoc[CUBA React Core] section to see what components are available to you and how to use them.
 
-Check {api_rest}[CUBA REST JS] to see how your components can communicate with the {manual_restApi}[Generic REST API].
+Check {api_rest_relativeToModule}[CUBA REST JS] to see how your components can communicate with the {manual_restApi}[Generic REST API].

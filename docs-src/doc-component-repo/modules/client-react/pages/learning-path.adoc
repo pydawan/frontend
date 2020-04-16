@@ -6,4 +6,4 @@ xref:generator:index.adoc[Frontend Generator Reference] contains detailed inform
 
 Of course, frontend client development process is not limited to generation, you may want to create some components manually, as well as to reuse some of the components provided by our libraries. Go through xref:cuba-react-core:index.adoc[CUBA React Core] and xref:cuba-react-ui:index.adoc[CUBA React UI] sections to see what components are available to you and how to use them.
 
-Check {api_rest}[CUBA REST JS] documentation to see how your components can communicate with the {manual_restApi}[Generic REST API].
+Check {api_rest_relativeToModule}[CUBA REST JS] documentation to see how your components can communicate with the {manual_restApi}[Generic REST API].

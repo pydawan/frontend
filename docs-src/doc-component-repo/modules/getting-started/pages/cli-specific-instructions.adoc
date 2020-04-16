@@ -40,7 +40,7 @@ The generator CLI tool will require the project metadata: information about your
 * Open settings (`File > Settings`), then open `Languages & Frameworks > CUBA`.
 * Tick the `Enable integration` checkbox:
 +
-image:studio-integration.png[Enabling Studio integration]
+image:generator:studio-integration.png[Enabling Studio integration]
 
 Now the generator will be able to automatically detect CUBA projects opened
 in Studio.

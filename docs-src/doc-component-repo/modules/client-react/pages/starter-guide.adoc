@@ -90,16 +90,16 @@ NOTE: There is a known
 https://github.com/srs/gradle-node-plugin/issues/339[bug] in Gradle node
 plugin which does not kill JS development server on task interruption.
 
-You can also run your CUBA application normally (e.g. via `CUBA -> Start Application Server`) and frontend client will be accessible at `localhost:8080/app-front` (context root can be link:#react-client-configuration[configured]). However, in this case hot deploy will not be available. We recommend using one of the above methods during development.
+You can also run your CUBA application normally (e.g. via `CUBA -> Start Application Server`) and frontend client will be accessible at `localhost:8080/app-front` (context root can be xref:config.adoc[configured]). However, in this case hot deploy will not be available. We recommend using one of the above methods during development.
 ****
 
 Either way, this is what you will see once you open your project in a browser.
 
-image:react/login-screen.png[Login screen]
+image:login-screen.png[Login screen]
 
 Enter existing user's login and password (`admin/admin` if you are using Petclinic).
 
-image:react/home-screen.png[Home screen]
+image:home-screen.png[Home screen]
 
 That's it! Congratulations, you have just created your first React client!
 
